@@ -17,6 +17,19 @@ function App() {
   );
 }
 
+/* function Component */
+/*
+function App2() {
+  return <Headline />
+}
+
+function Headline() {
+  let msg = "Hello, World React Program"
+  return <h1>{msg}</h1>
+}*/
+
+/* Class Component */
+/* 
 function App1() {
   return(
     <div>
@@ -24,5 +37,7 @@ function App1() {
     </div>
   );
 }
+*/
 
-export default App1
+
+export default App
